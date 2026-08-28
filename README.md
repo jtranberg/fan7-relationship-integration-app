@@ -557,7 +557,7 @@ The goal is straightforward: **give independent automotive service businesses en
 
 Fan7 — The Technician is designed and developed by **Jay Tranberg / App Intelligence**.
 
-Copyright © 2026 App Intelligence. All rights reserved.
+Copyright © 2026 App Intelligence.ca. All rights reserved.
 
 This public repository is provided for product evaluation and informational purposes. Unauthorized copying, distribution, modification, republication, or commercial use is prohibited except where expressly permitted in writing. See [LICENSE.md](LICENSE.md).
 
