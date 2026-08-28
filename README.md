@@ -330,7 +330,7 @@ The goal is straightforward: give independent automotive service businesses ente
 
 Ownership and License
 
-Fan7 — The Technician is designed and developed by Jay Tranberg / App Intelligence.
+Fan7 — The Technician is designed and developed by Jay Tranberg / App Intelligence.ca.
 
 Copyright © 2026 App Intelligence. All rights reserved.
 
@@ -555,7 +555,7 @@ The goal is straightforward: **give independent automotive service businesses en
 
 ## Ownership and License
 
-Fan7 — The Technician is designed and developed by **Jay Tranberg / App Intelligence**.
+Fan7 — The Technician is designed and developed by **Jay Tranberg / App Intelligence.ca**.
 
 Copyright © 2026 App Intelligence.ca. All rights reserved.
 
