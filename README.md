@@ -569,7 +569,3 @@ This public repository is provided for product evaluation and informational purp
 </p>
 
 
-<p align="center">
-  <strong>Fan7 · The Technician · App Intelligence.ca</strong><br />
-  Secure AI for the automotive service industry.
-</p>
