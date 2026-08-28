@@ -138,17 +138,29 @@ Core trust principles include:
 
 ## Product Gallery
 
-Approved product screenshots will be added as the public demonstration set is prepared.
+### Owner Dashboard
 
-| Experience | Public-showcase status |
-| --- | --- |
-| Owner dashboard | Screenshot placeholder |
-| Technician dashboard | Screenshot placeholder |
-| Customer portal | Screenshot placeholder |
-| Vehicle Passport | Screenshot placeholder |
-| Integration status | Optional sanitized screenshot |
+A centralized view of shop operations, business performance, and management activity.
 
-All public screenshots are reviewed to remove personal information, customer records, vehicle identifiers, credentials, internal IDs, and confidential financial data.
+![Fan7 Owner Dashboard](assets/screenshots/owner-dashboard.png)
+
+### Shop Intelligence
+
+Operational intelligence across repair orders, revenue signals, productivity, and store performance.
+
+![Fan7 Shop Intelligence](assets/screenshots/shop-intelligence.png)
+
+### Technician Intelligence
+
+Performance visibility, recognition, coaching signals, and technician development.
+
+![Fan7 Technician Intelligence](assets/screenshots/technician-intelligence.png)
+
+### Customer Portal
+
+A customer-facing experience connecting service information, vehicle history, and ongoing shop engagement.
+
+![Fan7 Customer Portal](assets/screenshots/customer-portal.png)
 
 ## Current and Planned AI Capabilities
 
