@@ -22,7 +22,7 @@ Fan7 — The Technician
 
 Your shop management software manages repairs. Fan7 manages the customer experience.
 
-Hero image placeholder: Add the approved Fan7 hero image as assets/fan7-hero.png, then replace this block with ![Fan7 — The Technician](assets/fan7-hero.png).
+[Fan7 — The Technician](assets/fan7-hero.png).
 
 Platform Overview
 
