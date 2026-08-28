@@ -1,13 +1,13 @@
 # Fan7 — The Technician
 
 <p align="center">
-  <strong>AI-native customer experience and operational intelligence for automotive service businesses.</strong>
+  <<strong>Relationship building, technician intelligence, and operational improvement for automotive service businesses.</strong>ong>
 </p>
 
 <p align="center">
   <a href="https://fan7.netlify.app/"><img src="https://img.shields.io/badge/Platform-Production-2E8B57?style=for-the-badge" alt="Production Platform" /></a>
   <img src="https://img.shields.io/badge/Architecture-Multi--Tenant-FF8C00?style=for-the-badge" alt="Multi-Tenant Architecture" />
-  <img src="https://img.shields.io/badge/AI-MCP%20Ready-8A2BE2?style=for-the-badge" alt="MCP Ready" />
+  <img src="https://img.shields.io/badge/AI-Technician%20Integrated-8A2BE2?style=for-the-badge" alt="Integrated AI Technician" />
   <img src="https://img.shields.io/badge/License-Proprietary-0B1F44?style=for-the-badge" alt="Proprietary License" />
 </p>
 
@@ -35,6 +35,8 @@
 The platform complements established shop-management systems instead of replacing them. Fan7 transforms operational data into customer experiences, technician intelligence, Vehicle Passport records, performance insights, and carefully governed AI capabilities.
 
 Fan7 is being shaped inside a real automotive-service environment. Bullfrog Transmission serves as the initial operational validation setting, where proven shop practices are informing the platform's workflows and product direction.
+
+Fan7 turns everyday shop data into opportunities for relationship building and continuous fine-tuning. It helps owners strengthen customer connections, recognize technician contributions, improve communication, and refine operational practices using signals already produced by the business.
 
 ## Engineering Snapshot
 
@@ -226,7 +228,7 @@ The production source code, customer data, integration credentials, internal end
 
 ## Vision
 
-Fan7 is evolving into an AI-native automotive engagement platform that enables secure collaboration between people, operational systems, and AI.
+Fan7 is evolving into an AI-native automotive engagement platform that enables secure collaboration between people, opeFan7 is evolving into an automotive engagement and operational-intelligence platform supported by an integrated AI Technician.rational systems, and AI.
 
 The goal is straightforward: **give independent automotive service businesses enterprise-grade customer engagement, technician intelligence, and responsible AI-powered insight without disrupting the workflows that already run the shop.**
 
