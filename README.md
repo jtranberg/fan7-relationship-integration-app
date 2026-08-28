@@ -22,7 +22,7 @@ Fan7 — The Technician
 
 Your shop management software manages repairs. Fan7 manages the customer experience.
 
-[Fan7 — The Technician](assets/fan7-hero.png).
+![Fan7 — The Technician](assets/fan7-hero.png).
 
 Platform Overview
 
